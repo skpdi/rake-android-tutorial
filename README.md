@@ -10,7 +10,7 @@
 
 *Rake-android* 는 jar파일로 제공됩니다. 최신 jar는 아래 경로에서 받을 수 있습니다.
 
-- [Rake-android release list](https://github.com/skpdi/rake-android/tree/master/release/jar)
+- [Rake-android release list](https://github.com/skpdi/rake-android-tutorial/tree/master/release/jar)
 
 ## 적용 및 실행 방법
 
@@ -23,8 +23,8 @@
 
 ## 언어별 예제 프로젝트
 
-- [Application Example(Java)](https://github.com/skpdi/rake-android/tree/master/rake_example_java)
-- [Application Example(Kotlin)](https://github.com/skpdi/rake-android/tree/master/rake_example_kotlin)
+- [Application Example(Java)](https://github.com/skpdi/rake-android-tutorial/tree/master/rake_example_java)
+- [Application Example(Kotlin)](https://github.com/skpdi/rake-android-tutorial/tree/master/rake_example_kotlin)
 
 ## License : Apache 2.0
 
